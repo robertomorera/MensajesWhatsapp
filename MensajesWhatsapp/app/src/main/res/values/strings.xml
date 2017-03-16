@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MensajesWhatsapp</string>
+    <string name="textoMensaje">Introduzca su mensaje</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="titulo_tab1">Envio de mensajes</string>
+    <string name="titulo_tab2">Mensajes enviados</string>
+</resources>
